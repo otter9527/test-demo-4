@@ -84,3 +84,4 @@ bash .wfkit/scripts/roles/release/07_collect_report.sh --repo <owner/name>
 
 
 - #1 worker-a
+- #2 worker-b
