@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.wfkit/state/runs/*
+!.wfkit/state/runs/.gitkeep
+.wfkit/reports/

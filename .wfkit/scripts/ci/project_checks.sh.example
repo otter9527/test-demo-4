@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Copy this file to .wfkit/scripts/ci/project_checks.sh and customize for your project.
+# Examples:
+# python3 -m pytest -q
+# npm ci && npm test
+# go test ./...
+
+echo "No project-specific checks configured yet."
